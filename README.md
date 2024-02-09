@@ -1,5 +1,5 @@
 
-# Zodiac Sign and Age Calculator:
+# Celestial Sign and Age Calculator:
 
 Created a Python application with a graphical user interface (GUI) using Tkinter.
 Input your birthdate and discover your zodiac sign, birth day of the week, and current age effortlessly.
